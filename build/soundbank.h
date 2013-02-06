@@ -1,0 +1,12 @@
+#define SFX_BLUESBROTHERS	0
+#define SFX_BTTF	1
+#define SFX_BUTTHEAD	2
+#define SFX_CHEWBACCA	3
+#define SFX_DSOTM	4
+#define SFX_DUCK	5
+#define SFX_EASTWOOD	6
+#define SFX_GONG	7
+#define SFX_MARIO	8
+#define MSL_NSONGS	0
+#define MSL_NSAMPS	9
+#define MSL_BANKSIZE	9
