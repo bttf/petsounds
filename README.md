@@ -1,6 +1,6 @@
 # petsounds
 
-Named after the great Beach Boys album, this NDS app is a collection of pet sounds.
+Named after the great Beach Boys album, this NDS app is a collection of 'pet sounds'.
 
 ## get it up and running
 1. Get your [devkitpro environment](http://devkitpro.org/wiki/Getting_Started) downloaded and installed somewhere (make get it with devkitARM).
