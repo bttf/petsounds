@@ -1,1 +1,0 @@
-butthead.o: butthead.s

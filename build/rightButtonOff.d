@@ -1,1 +1,0 @@
-rightButtonOff.o: rightButtonOff.s

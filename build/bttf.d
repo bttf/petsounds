@@ -1,1 +1,0 @@
-bttf.o: bttf.s

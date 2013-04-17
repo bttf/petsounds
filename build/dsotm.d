@@ -1,1 +1,0 @@
-dsotm.o: dsotm.s

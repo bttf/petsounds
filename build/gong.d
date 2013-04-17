@@ -1,1 +1,0 @@
-gong.o: gong.s

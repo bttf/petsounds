@@ -1,1 +1,0 @@
-chewbacca.o: chewbacca.s

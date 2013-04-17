@@ -1,1 +1,0 @@
-eastwood.o: eastwood.s
